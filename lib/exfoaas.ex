@@ -1,4 +1,4 @@
-defmodule ExFOASS do
+defmodule ExFOAAS do
   @moduledoc """
   ExFOAAS brings FOAAS's utility in telling people to fuck off, to elixir.
   http://foaas.com/
